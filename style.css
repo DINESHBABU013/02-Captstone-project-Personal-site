@@ -94,7 +94,7 @@ body{
     font-size: 20px;
     position: absolute;
     top: 210%;
-    left: 100%;
+    left: 80%;
 }
 
 .food-text {
@@ -103,7 +103,7 @@ body{
     font-size: 18px;
     position: absolute;
     top: 120%;
-    left: 100%;
+    left: 80%;
 }
 
 .photo {
@@ -204,6 +204,7 @@ body{
     text-decoration: none;
 
 }
+
 
 
 

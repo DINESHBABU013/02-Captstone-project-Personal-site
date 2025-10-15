@@ -9,7 +9,7 @@ body{
 }
 
 .container {
-    width: 100%;
+    width: 125%;
     height: auto;
 
 }
@@ -108,7 +108,7 @@ body{
 
 .photo {
     padding-top: 50px;
-    width: 40%;
+    width: 30%;
     height: 25px;
     position: absolute;
     top: 190%;
@@ -118,7 +118,7 @@ body{
 
 .food {
     padding-top: 50px;
-    width: 60%;
+    width: 30%;
     height: 25px;
     position: absolute;
     top: 190%;

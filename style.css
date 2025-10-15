@@ -94,22 +94,22 @@ body{
     font-size: 20px;
     position: absolute;
     top: 210%;
-    left: 50%;
+    left: 100%;
 }
 
 .food-text {
-    width: 300px;
+    width: 250px;
     height: 20px;
     font-size: 18px;
     position: absolute;
-    top: 190%;
-    left: 80%;
+    top: 150%;
+    left: 100%;
 }
 
 .photo {
     padding-top: 50px;
     width: 30%;
-    height: 25px;
+    height: 30px;
     position: absolute;
     top: 190%;
     left: 3%;

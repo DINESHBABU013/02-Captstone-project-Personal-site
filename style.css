@@ -9,7 +9,7 @@ body{
 }
 
 .container {
-    width: 125%;
+    width: 100%;
     height: auto;
 
 }
@@ -89,18 +89,18 @@ body{
 }
 
 .photo-text {
-    width: 300px;
+    width: 250px;
     height: 20px;
-    font-size: 23px;
+    font-size: 20px;
     position: absolute;
     top: 210%;
     left: 60%;
 }
 
 .food-text {
-    width: 350px;
+    width: 300px;
     height: 20px;
-    font-size: 20px;
+    font-size: 18px;
     position: absolute;
     top: 190%;
     left: 40%;

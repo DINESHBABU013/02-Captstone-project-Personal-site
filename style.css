@@ -89,7 +89,7 @@ body{
 }
 
 .photo-text {
-    width: 210px;
+    width: 220px;
     height: 20px;
     font-size: 20px;
     position: absolute;
@@ -98,7 +98,7 @@ body{
 }
 
 .food-text {
-    width: 210px;
+    width: 220px;
     height: 20px;
     font-size: 18px;
     position: absolute;

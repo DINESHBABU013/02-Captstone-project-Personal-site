@@ -89,7 +89,7 @@ body{
 }
 
 .photo-text {
-    width: 240px;
+    width: 250px;
     height: 20px;
     font-size: 20px;
     position: absolute;
@@ -98,11 +98,11 @@ body{
 }
 
 .food-text {
-    width: 240px;
+    width: 250px;
     height: 20px;
     font-size: 18px;
     position: absolute;
-    top: 150%;
+    top: 130%;
     left: 80%;
 }
 

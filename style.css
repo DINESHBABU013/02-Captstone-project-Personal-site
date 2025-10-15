@@ -94,11 +94,7 @@ body{
     font-size: 20px;
     position: absolute;
     top: 210%;
-<<<<<<< HEAD
     left: 50%;
-=======
-    left: 80%;
->>>>>>> 4dd1337fe4634b17d15c7229902e2498ebe20cdf
 }
 
 .food-text {
@@ -107,11 +103,7 @@ body{
     font-size: 18px;
     position: absolute;
     top: 190%;
-<<<<<<< HEAD
-    left: 30%;
-=======
-    left: 70%;
->>>>>>> 4dd1337fe4634b17d15c7229902e2498ebe20cdf
+    left: 60%;
 }
 
 .photo {
@@ -210,5 +202,4 @@ body{
 .contact a:hover{
     color: black;
     text-decoration: none;
-
 }
